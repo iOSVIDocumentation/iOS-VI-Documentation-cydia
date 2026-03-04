@@ -153,7 +153,7 @@ MD5sum: 63342514d0bb6350d54a327150da1c32
 SHA1: 94317469c488f165d8adf262fc8664183c37e59b
 SHA256: 5293c7908a4b6ba39bd1e0f189dcb25222b1d2831f4d001011a88d5e73312dc0
 Section: System
-Description: 
+Description: open file system
 Author: saurik, Cannathea
 Name: Apple File Conduit "2" (iOS 11+ arm64)
 
@@ -168,6 +168,6 @@ MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
 SHA1: bddaf385263b9aad2b032b2116179f83afd077cc
 SHA256: 287ac4ce1a6e4095e824fd90f71fed301ff7d9508f1cd2d87a7354053e347a3c
 Section: System
-Description: 
+Description: open file system
 Author: Jay Freeman (saurik)
 Name: Apple File Conduit "2"
