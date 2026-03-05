@@ -124,22 +124,22 @@ Author: Karen/???, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
-Package: vn.gsm.auxo.org
-Version: 1.4-2
+Package: com.yourepo.dinamit.auxo
 Architecture: iphoneos-arm
-Maintainer: A3tweaks
-Depends: mobilesubstrate
-Filename: debs/vn.gsm.auxo.org_1.4-2.deb
-Size: 1820470
-MD5sum: b0ccb5859f9754711f0225cc1b2eb649
-SHA1: 94317469c488f165d8adf262fc8664183c37e59b
-SHA256: 534994129d3161020642072213bd0bf7ea61e289232c56512d86843e2320f2c9
-Section: Tweak
-Description: Auxo is a popular tweak for Cydia that completely redesigns the standard iOS multitasking interface and adds powerful system controls.
-Instead of simple app icons, Auxo shows live preview cards of running applications, allowing you to quickly switch between them with smooth swipe gestures. It also integrates quick toggles for Wi-Fi, Bluetooth, brightness, music controls, and more directly into the multitasking view.
-Auxo combines multitasking and Control Center into one clean interface, adds gestures for closing multiple apps at once, and provides a modern design with smooth animations. It became especially popular on jailbroken devices running iOS 67
-Author: A3tweaks
 Name: Auxo
+Version: 1.4-2
+Description: A fantastic re-imagined multitasking bar!
+Author: A3tweaks <A3tweaks@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 5.1), mobilesubstrate, preferenceloader, applist
+Size: 1818268
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Md5sum: da0251ab6e4cd63bdf939fbc675e30cb
+SHA256: 50f43562012fb5bd6f8fcd42ce858379f6dea60121f91082417187d5bab2513d
+Depiction: https://dinamit.yourepo.com/pack/auxo
+SileoDepiction: https://dinamit.yourepo.com/sileo/depiction/auxo
+Filename: debs/auxo_1.4-2_iphoneos-arm.deb
+Icon: file:///Library/PreferenceLoader/Preferences/AuxoIcon@2x.png
 
 Package: com.yourepo.mtp13013.applefileconduit2ios11arm64
 Architecture: iphoneos-arm
