@@ -342,7 +342,7 @@ Architecture: iphoneos-arm
 Maintainer: Stella Diaz (electimon)
 Installed-Size: 124
 Depends: mobilesubstrate
-Filename: packs/moe.yzu.veterishelper_1.0.0-53+debug_iphoneos-arm.deb
+Filename: debs/moe.yzu.veterishelper_1.0.0-53+debug_iphoneos-arm.deb
 Size: 7224
 MD5sum: f92062d4ddd14532c7d39a6aba32a751
 SHA1: 98ecb6684ebcf21993dd180851e20030dea68726
@@ -357,7 +357,7 @@ Version: 2.1.1
 Architecture: iphoneos-arm
 Maintainer: Electimon <electimon@gmail.com>
 Depends: firmware (>= 5.0), appsync, moe.yzu.veterishelper
-Filename: packs/Veteris-v2.1.1.deb
+Filename: debs/Veteris-v2.1.1.deb
 Size: 1950126
 MD5sum: d1b104bee17dd9505546ef6e91df438d
 SHA1: b6b519d0825dafc94754f0b642a683149e54e271
@@ -368,6 +368,61 @@ Description: A Client for the Veteris Server.
 Author: Electimon <electimon@gmail.com>
 Icon: file:///Applications/Veteris.app/AppIcon57x57@2x.png
 Name: Veteris
+
+
+Package: bag.xml.tuberepair
+Version: 1.0-Beta-1
+Architecture: iphoneos-arm
+Maintainer: bag.xml, Requis
+Installed-Size: 568
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/bag.xml.tuberepair_1.0-Beta-1_iphoneos-arm.deb
+Size: 125684
+MD5sum: 6bea6b3f594d8b6374b2334595b79098
+SHA1: fda1964216cb67a1d75526daa7f10ccab25bbc13
+SHA256: ac457a661dd8ddc785e1ab3ff0b3d2b7af9a0dff09e39e4e6979a194500bdcac
+Section: Tweaks
+Description: TubeRepair is a tweak that redirects API traffic from the classic YouTube app, and the App Store YouTube app to a designated custom server. You could also just say that it fixes both applications. For assistance refer to the guide (https://tuberepair.bag-xml.com/guide/)
+Author: bag.xml, Requis
+Depiction: https://cydia.skyglow.es/depictions/com.skyglow.tuberepair/depictions/index.html
+Icon: file:///Library/Application%20Support/bag.xml.tuberepair/TubeRepair-Icon.png
+Name: TubeRepair [BETA]
+
+Package: bag.xml.tuberepair
+Version: 1.0-Beta-2
+Architecture: iphoneos-arm
+Maintainer: bag.xml, Requis
+Installed-Size: 360
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/bag.xml.tuberepair_1.0-Beta-2_iphoneos-arm.deb
+Size: 112372
+MD5sum: 7980faa2ee5ce03e934ca73dccc6d082
+SHA1: 3abb55c61184ebccb077b2bd3e690c2a7236624a
+SHA256: 8dc0fb828a3a854832f5fbcf6b7e8cdc34db6a18428fd1bb824c871daa62be10
+Section: Tweaks
+Description: TubeRepair is a tweak that redirects YouTube API traffic from the classic YouTube app, and the App Store YouTube app to a designated custom server. You could also just say that it fixes both applications. For assistance refer to the guide (https://tuberepair.bag-xml.com/guide/)
+Author: bag.xml, Requis
+Depiction: https://cydia.skyglow.es/depictions/com.skyglow.tuberepair/depictions/index.html
+Icon: file:///Library/Application%20Support/bag.xml.tuberepair/TubeRepair-Icon.png
+Name: TubeRepair [BETA]
+
+Package: bag.xml.tuberepair
+Version: 1.1-Beta-1
+Architecture: iphoneos-arm
+Maintainer: bag.xml, Requis
+Installed-Size: 152
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/bag.xml.tuberepair_1.1-Beta-1_iphoneos-arm.deb
+Size: 101590
+MD5sum: 0327b6b664d0aa4e995711d97b4f9d87
+SHA1: 63cd39d5a35083aefc4c29c5cba374b7c179118b
+SHA256: 473e78c61932d149c35c105fbcad00145314cc9b668ce207745ae6dc7596df59
+Section: Tweaks
+Description: TubeRepair is a tweak that redirects YouTube API traffic from the classic YouTube app, and the App Store YouTube app to a designated custom server. You could also just say that it fixes both applications. For assistance refer to the guide (https://tuberepair.bag-xml.com/guide/)
+Author: bag.xml, Requis
+Depiction: https://cydia.skyglow.es/depictions/com.skyglow.tuberepair/depictions/index.html
+Icon: file:///Library/Application%20Support/bag.xml.tuberepair/TubeRepair-Icon.png
+Name: TubeRepair [BETA]
 
 Package: bag.xml.tuberepair
 Version: 1.1-Beta-2
