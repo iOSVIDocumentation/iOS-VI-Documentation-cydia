@@ -264,3 +264,21 @@ Description: Disable capability limits in the App Store.
 Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
 Depiction: http://cydia.invoxiplaygames.uk/dp/checkmatestore.php
 Name: Checkmate, Store!
+
+Package: com.hackyouriphone.icloudbypassfixer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.hackyouriphone.icloudbypassfixer_1.0_iphoneos-arm.deb
+Size: 17860
+MD5sum: d2eae59f78b278aad78eeff9e8aa2d04
+SHA1: eb197a7bf797c83026c37dc4b8bdc24bc9232456
+SHA256: 0381fb67426e3249d6ac610c5603ccf2b772d4b95848d0e3fa2ffd251f903d81
+Section: Tweaks (HYI)
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=icloudbypassfixer
+Description: Fix your iPhone Bypass iOS 13
+Author: DPKGHUB <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=icloudbypassfixer
+Name: iCloud Bypass Fixer
+Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=icloudbypassfixer
