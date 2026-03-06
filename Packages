@@ -177,3 +177,22 @@ Depiction:
 SileoDepiction: 
 Filename: debs/cydown_6.0.6_iphoneos-arm.deb
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+
+Package: uk.invoxiplaygames.simalertsuppression
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Installed-Size: 132
+Depends: mobilesubstrate, firmware (>=5.0)
+Conflicts: uk.invoxiplaygames.letmestealinpeace
+Filename: ./files/simalertsuppression-1.0.deb
+Size: 2810
+MD5sum: 93cd24e6c82108068e54435453587ac4
+SHA1: 9eff439f4635d83fffbd9565ca926612d08f2bf9
+SHA256: 4f6fb6fc8743d1f1902513fcda5ba96c3cb189a4fe550b735262e268e78baab4
+Section: Tweaks
+Description: Removes SIM-related alerts from SpringBoard
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depiction: http://cydia.invoxiplaygames.uk/dp/simalertsuppression.php
+Name: SIM Alert Suppression
+Sileodepiction: https://cydia.invoxiplaygames.uk/dp/simalertsuppression.json
