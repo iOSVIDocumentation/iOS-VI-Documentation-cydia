@@ -136,8 +136,8 @@ Size: 1818268
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Md5sum: da0251ab6e4cd63bdf939fbc675e30cb
 SHA256: 50f43562012fb5bd6f8fcd42ce858379f6dea60121f91082417187d5bab2513d
-Depiction: https://dinamit.yourepo.com/pack/auxo
-SileoDepiction: https://dinamit.yourepo.com/sileo/depiction/auxo
+Depiction: 
+SileoDepiction: 
 Filename: debs/auxo_1.4-2_iphoneos-arm.deb
 Icon: file:///Library/PreferenceLoader/Preferences/AuxoIcon@2x.png
 
@@ -156,8 +156,8 @@ Size: 27572
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Md5sum: a61baee87cc6b1ab72227ef3db60c84b
 SHA256: b73ccb13c2fca0fb8d89eb17e3a379167ab98f743646a6b5de4b217a4fa01a25
-Depiction: https://mtp13013.yourepo.com/pack/applefileconduit2ios11arm64
-SileoDepiction: https://mtp13013.yourepo.com/sileo/depiction/applefileconduit2ios11arm64
+Depiction: 
+SileoDepiction: 
 Filename: debs/applefileconduit2ios11arm64_1.2.0_iphoneos-arm.deb
 Icon: https://cdn-static.yourepo.com/images/sections/users/1.png
 
@@ -173,7 +173,7 @@ Size: 439620
 Maintainer: broadway <broadway219thebest@gmail.com>
 Md5sum: 726c4a0eb4050f669430b0b87b336476
 SHA256: 51ff79b9c7c763bab568108800783fa2ada180d80d9b5f1738532066d67017dd
-Depiction: https://broadway.yourepo.com/pack/cydown
-SileoDepiction: https://broadway.yourepo.com/sileo/depiction/cydown
+Depiction: 
+SileoDepiction: 
 Filename: debs/cydown_6.0.6_iphoneos-arm.deb
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
