@@ -483,7 +483,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 325
 Depends: firmware (>= 4.0), system-cmds
-Filename: ./debs/debs2.0/mterminal_1.4-5.deb
+Filename: debs/debs2.0/mterminal_1.4-5.deb
 Size: 107204
 MD5sum: ca89ef2a021eb532ab64a3f584d4c9d4
 SHA1: 86a7feea0d4c0c21bf169ac7c5e25ce1f8079724
