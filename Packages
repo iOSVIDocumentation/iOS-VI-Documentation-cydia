@@ -840,7 +840,7 @@ Pre-Depends: firmware (>= 4.0), firmware (<< 5.0)
 Conflicts: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
 Replaces: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
 Provides: appsync, us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
-Filename: debs/net.angelxwind.appsync40plus.deb
+Filename: debs/net.angelxwind.appsync40plus_1.2.2_iphoneos-arm.deb
 Size: 9202
 MD5sum: 4450d7c556bdf0504b14d678da5e5362
 SHA1: 7b0040049afef1d0309c108bcf0a7ed9d19921d4
