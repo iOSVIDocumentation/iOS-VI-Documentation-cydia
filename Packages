@@ -877,7 +877,7 @@ Description: fix chat on mcpe
 Author: ??? 
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
-Size: 5844
+Size: 5828
 Maintainer: ??? 
 Md5sum: c15e5effe4f8391dba6512b77c0d3e0e
 SHA256: c71876ebe35c0826088cfca36255fd4020572e06425a4e4f519086eabd52e619
