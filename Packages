@@ -868,3 +868,20 @@ Author: Trevir <triveri@outlook.com>
 Depiction: http://cydia.invoxiplaygames.uk/dp/classicdiscord.php
 Icon: file:///Applications/Discord.app/Icon@2x.png
 Name: Discord Classic
+
+Package: com.jjr.mcpefix
+Architecture: iphoneos-arm
+Name: MCPEFix
+Version: 1.0
+Description: fix chat on mcpe
+Author: ??? 
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Size: 5844
+Maintainer: ??? 
+Md5sum: c15e5effe4f8391dba6512b77c0d3e0e
+SHA256: c71876ebe35c0826088cfca36255fd4020572e06425a4e4f519086eabd52e619
+Depiction: 
+SileoDepiction: 
+Filename: debs/com.jjr.mcpefix_1.0_iphoneos-arm.deb
+Icon: https://cdn-static.yourepo.com/images/sections/users/33.png
