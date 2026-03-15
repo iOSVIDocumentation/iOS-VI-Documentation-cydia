@@ -879,8 +879,8 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Size: 5828
 Maintainer: ??? 
-Md5sum: c15e5effe4f8391dba6512b77c0d3e0e
-SHA256: c71876ebe35c0826088cfca36255fd4020572e06425a4e4f519086eabd52e619
+Md5sum: 78849ed6b41965620ebfa541ae575f22
+SHA256: 5aff18dcc3ace43563ccb504ae91faada2c504a676ebaac5e98e2516c4cc0b40
 Depiction: 
 SileoDepiction: 
 Filename: debs/com.jjr.mcpefix_1.0_iphoneos-arm.deb
